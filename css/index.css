@@ -1,0 +1,227 @@
+/*
+* @Author: lx
+* @Date:   2017-10-24 14:02:45
+* @Last Modified by:   lx
+* @Last Modified time: 2017-10-26 17:45:14
+*/
+#app{
+	width: 100%;
+	height: 100%;
+	background: white;
+	overflow: scroll;
+}
+.db{
+	width: 100%;
+	height: .98rem;
+	background: #D7D7D7;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	z-index: 99999999;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	font-size: 20px;
+	text-align: center;
+}
+.logo{
+   flex: none;
+   width: 25%;
+   height: 100%;
+   padding-top: .1rem;
+   position: relative;
+}
+.logo>img{
+	width: .54rem;
+	height: .54rem;
+	position: absolute;
+	top: .1rem;
+	left: .6rem;
+}
+.dbz{
+	position: absolute;
+	bottom: .05rem;
+	left: .68rem;
+}
+.top{
+	width: 100%;
+	height: .4rem;
+	background: white;
+	display: flex;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 99999999;
+	justify-content: space-between;
+	align-items: center;
+}
+.sousuo{
+	width: 100%;
+	height: 2.38rem;
+	background: black;
+	text-align: center;
+	position: relative;
+}
+.bk{
+	font-size: .35rem;
+	font-weight: 500;
+	color: white;
+	position: 
+}
+.ssk{
+	width: 6rem;
+	height: .58rem;
+	background: white;
+	position: absolute;
+	bottom: .4rem;
+	left: .75rem;
+	padding-left: .2rem;
+	border: 1px solid white;
+	border-radius: .58rem;
+}
+.ssl{
+	width: .4rem;
+	height: .4rem;
+	margin-top: .1rem;
+	float: left;
+}
+.sskz{
+	font-size: .28rem;
+	font-weight: 500;
+	color: #A3A1B4;
+	float: left;
+	margin-top: .11rem;
+	margin-left: .06rem;
+}
+.hst{
+	width: 100%;
+	height: .1rem;
+	background: #CCCCCC;
+}
+.zqx{
+	width: 100%;
+	height: 1.7rem;
+	background: #999999;
+	position: relative;
+}
+.fdj{
+	width: 1.14rem;
+	height: 1.14rem;
+	position: absolute;
+	top: .28rem;
+	left: .75rem;
+}
+.zqmz{
+	font-size: .28rem;
+	color: white;
+	position: absolute;
+	top: .32rem;
+	right: .9rem;
+}
+.sxbn{
+	width: 1.8rem;
+	height: .4rem;
+	background: #E4E4E4;
+	font-size: .26rem;
+	text-align: center;
+	position: absolute;
+	top: .9rem;
+	right: .97rem;
+	line-height: .35rem;
+	border: .01rem solid #E4E4E4;
+	border-radius: .4rem;
+}
+.sdk{
+	width: 100%;
+	height: 2.65rem;
+	background: white;
+}
+.sdkm{
+	width: 2.2rem;
+	height: 2.2rem;
+	float: left;
+	background: #E4E4E4;
+	margin-left: .225rem;
+	margin-top: .225rem;
+	border: 1px solid #E4E4E4;
+	border-radius: 20%;
+	position: relative;
+}
+.sdky{
+	width: 2.2rem;
+	height: 2.2rem;
+	float: left;
+	background: #E4E4E4;
+	margin-left: .225rem;
+	margin-right: .225rem;
+	margin-top: .225rem;
+	border: 1px solid #E4E4E4;
+	border-radius: 20%;
+	position: relative;
+}
+.sdkz{
+	font-size: .32rem;
+	color: #8A8A8A;
+	position: absolute;
+	top: .3rem;
+	left: .42rem;
+}
+.sdkt{
+	width: 1.15rem;
+	height: 1.15rem;
+	position: absolute;
+	bottom: .2rem;
+	left: .52rem;
+}
+.drkm{
+	width: 100%;
+	height: 10.86rem;
+	background: #F2F2F2;
+	position: relative;
+}
+.drkmz{
+	font-size: .32rem;
+	position: absolute;
+	top: .5rem;
+	left: 2.85rem;
+}
+.dkt{
+	width: 100%;
+	height: 1.2rem;
+}
+.kmm{
+	width: 100%;
+	height: 1.46rem;
+	padding-right: .1rem;
+	margin-bottom: .2rem;
+}
+.kmmz{
+	width: 3.32rem;
+	height: 100%;
+	background: #BCBCBC;
+	float: left;
+	margin-left: .25rem;
+	margin-right: .1rem;
+	border: 1px solid #BCBCBC;
+	border-radius: 0.4rem;
+	font-size: .32rem;
+	text-align: center;
+	line-height: 2rem;
+}
+.html>div{
+	font-size: .32rem;
+	color: black;
+}
+.kmmy{
+	width: 3.32rem;
+	height: 100%;
+	background: #BCBCBC;
+	float: right;
+	margin-left: .1rem;
+	margin-right: .25rem;
+	border: 1px solid #BCBCBC;
+	border-radius: 0.4rem;
+	font-size: .32rem;
+	text-align: center;
+	line-height: 2rem;
+}
